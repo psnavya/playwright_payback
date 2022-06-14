@@ -50,7 +50,6 @@ The following software are required:
   https://nodejs.org/en/download/
   ```
 - Install Java 8 or above
-  ```
 
 ### Installation
 
